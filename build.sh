@@ -1,3 +1,4 @@
+#test
 TAG=$1
 LOCAL_IMAGE=uttne/crane-uploader:${TAG}
 TARGET_IMAGE=ccr.ccs.tencentyun.com/tem_runtime_images/uploader:${TAG}
